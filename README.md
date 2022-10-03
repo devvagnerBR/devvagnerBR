@@ -5,7 +5,6 @@
  🔭 Atualmente desenvolvendo alguns projetos pessoais e o meu website  <a href='https://devvagner.com/' > devvagner.com. </a>
 
 💡 Todos os meus projetos estão disponíveis em <a href='https://devvagner.com/' > devvagner.com. </a> [🚨 Portfólio em construção]
-
 <br><br>
 
 ## 🛠️ &nbsp;Tecnologias que domino
