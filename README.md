@@ -31,12 +31,8 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvagnerBR&layout=compact&theme=dracula" alt="Wagner Guimarães"/>
 </p>
 
-![Snake animation](https://github.com/devvagnerBR/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
  
- 
-<br><br>
+
 ## &nbsp;Social Links
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-guimar%C3%A3es-709b66236/) 
