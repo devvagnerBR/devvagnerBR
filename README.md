@@ -2,7 +2,7 @@
 
  🔥 Desenvolvedor Front-End Jr | Futuro desenvolvedor Full-Stack e UI Designer  
  
- 🟩 Estudo Programação desde janeiro de 2021 pela escola Labenu e busco me aperfeiçoar cada vez mais pelos cursos | Alura | Origamid | OneBitCode | 
+ 🟩 Estudo Programação desde janeiro de 2022 pela escola Labenu e busco me aperfeiçoar cada vez mais pelos cursos | Alura | Origamid | OneBitCode | 
  
  🔭 Atualmente desenvolvendo alguns projetos pessoais e o meu website  <a href='https://devvagner.com/' > devvagner.com. </a>
 
