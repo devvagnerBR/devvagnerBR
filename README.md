@@ -1,6 +1,6 @@
 <h1> Olá, eu sou o Wagner Guimarães  <img src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif' width='30px' /> </h1> 
 
- 🔥 Desenvolvedor Front-End Jr
+ 🔥 Desenvolvedor Front-End Jr | Futuro desenvolvedor Full-Stack e UI Designer  
  
  🔭 Atualmente desenvolvendo alguns projetos pessoais e o meu website  <a href='https://devvagner.com/' > devvagner.com. </a>
 
