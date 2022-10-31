@@ -34,8 +34,12 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvagnerBR&layout=compact&theme=dracula" alt="Wagner Guimarães"/>
 
  </div>
- 
+   <br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvagnerBR&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="devvagnerBR" />
+
 
 ## &nbsp;Social Links
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvagner/) 
+
+
