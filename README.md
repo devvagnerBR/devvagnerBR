@@ -39,6 +39,7 @@
  
   </div> 
  <br><br>
+ 
 ## 🟩 &nbsp;GitHub Analytics
 
 <div style="display: 'flex'">
@@ -47,7 +48,7 @@
     alt="AOdachowoski" 
     bg_color=#808080/>
    <br><br>
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=devvagnerBR&show_icons=true&theme=dracula" alt="Wagner Guimarães's stats"/>
+<img width="530em"  src="https://github-readme-stats.vercel.app/api?username=devvagnerBR&count_private=true&theme=radical"/>
    <br><br>
 <img width='530em' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvagnerBR&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="devvagnerBR" />
  </div>
