@@ -1,12 +1,12 @@
-<h1> Olá, eu sou o Wagner Guimarães  <img src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif' width='30px' /> </h1> 
+<h1> Olá, eu sou o Wagner Guimarães  </h1> 
 
- 🔥 Desenvolvedor Front-end
+ 🔥 Desenvolvedor Front-end e Design
  
  🟩 Estudo Programação desde janeiro de 2022 pela escola Labenu e busco me aperfeiçoar cada vez mais pelos cursos | Alura | Origamid | OneBitCode | 
  
- 🔭 Atualmente desenvolvendo alguns projetos pessoais e o meu website  <a href='https://devvagner.com/' > devvagner.com. </a>
+ 🔭 Atualmente desenvolvendo alguns projetos pessoais
 
-💡 Todos os meus projetos estão disponíveis aqui no github e em breve no meu website <a href='https://devvagner.com/' > devvagner.com. </a> [🚨 Portfólio em construção]
+💡 Todos os meus projetos estão disponíveis aqui no github  e no meu site [🚨 Portfólio em construção]
 <br><br>
 
 ## 🛠️ &nbsp;Tecnologias que domino
