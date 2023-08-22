@@ -3,6 +3,8 @@
  🔥 Desenvolvedor Front-end e Design
  
  🟩 Estudo Programação desde janeiro de 2022 pela escola Labenu e busco me aperfeiçoar cada vez mais pelos cursos | Alura | Origamid | OneBitCode | 
+
+ 
  🟩 Atualmente estou cursando Análise e desenvolvimento de sistemas pela UniAmerica!
 
 💡 Todos os meus projetos estão disponíveis aqui no github  e no meu site [🚨 Portfólio em construção]
