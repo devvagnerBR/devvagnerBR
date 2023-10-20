@@ -8,9 +8,7 @@
 
 
 💡 Todos os meus projetos estão disponíveis aqui no github  e no meu site [🚨 Portfólio em construção](https://wagnerluiz.tech)
-
- [Babel](https://wagnerluiz.tech/)
-<br><br>
+<br>
 
 ## 🛠️ &nbsp;Tecnologias que domino
 
