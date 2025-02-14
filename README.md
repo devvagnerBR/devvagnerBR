@@ -1,12 +1,24 @@
 <h1> Olá, eu sou o Wagner Guimarães  </h1> 
 
- 🔥 Desenvolvedor Fullstack e Design
+🔥 Desenvolvedor Fullstack e UI Designer
  
- 🟩 estou cursando Análise e desenvolvimento de sistemas pela UniAmerica desde 2023!
- 
- 🟩 Estudo Programação desde janeiro de 2022 onde realizei um bootcamp fullstack pela escola Labenu e desde então busco me aperfeiçoar cada vez mais pelos cursos | Alura | Origamid | OneBitCode | Rocketseat;
+🧑🏻‍🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) pela UniAmérica, no terceiro semestre.
+
+
+🖥️ Trabalho como Desenvolvedor Fullstack e UI Designer na empresa Licitati, onde sou responsável pelo desenvolvimento e manutenção do website, além de criar aplicações complexas de busca e filtro para compras de licitações.
+
+
+💡 Estudo programação desde janeiro de 2022, quando concluí um bootcamp Full Stack pela Labenu. Desde então, continuo me aprimorando através de cursos na Alura, Origamid, OneBitCode e Rocketseat.
+
+
+☕ Caso tenha alguma dúvida ou pergunta, basta me chamar em qualquer uma das redes aqui em baixo 😁
+
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvagner) 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wagnerluizsg@gmail.com) 
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5522997759060&) 
+  
 <br>
-## 🛠️ &nbsp;Tecnologias que domino
+🛠️ &nbsp;Tecnologias que domino
 
 ## FRONT-END
 <div style="display: 'inline-block'">
@@ -45,11 +57,6 @@
  ## IDE
 <img align='center' alt='VSCODE' src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>
 
-  ## CONTATO
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvagner) 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wagnerluizsg@gmail.com) 
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5522997759060&) 
-  
 </div> 
  <br><br>
  
